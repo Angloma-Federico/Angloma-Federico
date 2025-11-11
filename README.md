@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angloma-Federico
-- 👀 I’m interested in DevOps , Android Developpemnt and Ethical Hacking
+- 👀 I’m interested in DevOps , DevSecOps and Ethical Hacking
 - 🌱 I’m currently learning in the awesome adventure of Android developpemnt, DevOps and more again in Ethical Hacking  
 - 💞️ I’m looking to collaborate on real project and real world of this domain.
   
